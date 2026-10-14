@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[21757,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.js"],"default"]
-3:I[61465,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.js"],"default"]
-4:I[20348,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.js"],"default"]
-15:I[5500,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.js"],"Image"]
-16:I[95147,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.js"],"default"]
-17:I[29194,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.js"],"default"]
+2:I[21757,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.ga4-3465140058ff.js"],"default"]
+3:I[61465,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.ga4-3465140058ff.js"],"default"]
+4:I[20348,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.ga4-3465140058ff.js"],"default"]
+15:I[5500,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.ga4-3465140058ff.js"],"Image"]
+16:I[95147,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.ga4-3465140058ff.js"],"default"]
+17:I[29194,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js","/cs15-security/_next/static/chunks/0ljjh47kpv4ls.ga4-3465140058ff.js"],"default"]
 18:I[97367,["/cs15-security/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-security/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
 19:"$Sreact.suspense"
 :HL["/cs15-security/_next/static/chunks/0we0286crmca0.css","style"]
@@ -23,6 +23,6 @@ f:["$","$L17",null,{"placement":"landing","title":"Получайте новые
 10:["$","footer",null,{"className":"footer shell","children":[["$","div",null,{"className":"brand","children":[["$","span",null,{"className":"brand-mark","children":"B:C"}],["$","span",null,{"children":"BLOCKCAPITAL"}]]}],["$","p",null,{"children":"Материалы носят образовательный характер и не являются индивидуальной инвестиционной рекомендацией. Абсолютной защиты не существует. Работа с цифровыми активами связана с риском полной потери средств и доступа к ним."}],["$","div",null,{"className":"footer-links","children":[["$","a",null,{"href":"https://theblockcapital.ru/privacy","target":"_blank","rel":"noreferrer","children":"Политика конфиденциальности"}],["$","span",null,{"children":"© 2026 BlockCapital"}]]}]]}]
 11:["$","a",null,{"className":"mobile-cta","href":"#access","data-metrika-goal":"lead_form_cta_click","data-metrika-placement":"mobile_fixed","children":["Открыть запись ",["$","span",null,{"aria-hidden":"true","children":"↓"}]]}]
 12:["$","link","0",{"rel":"stylesheet","href":"/cs15-security/_next/static/chunks/0we0286crmca0.css","precedence":"next"}]
-13:["$","script","script-0",{"src":"/cs15-security/_next/static/chunks/0ljjh47kpv4ls.js","async":true}]
+13:["$","script","script-0",{"src":"/cs15-security/_next/static/chunks/0ljjh47kpv4ls.ga4-3465140058ff.js","async":true}]
 14:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
 1a:null
